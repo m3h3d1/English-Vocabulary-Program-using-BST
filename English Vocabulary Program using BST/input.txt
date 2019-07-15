@@ -1,0 +1,1027 @@
+Fast
+SYN: Firm, secure, fixed, constant, steadfast, stable, unyielding, Unswerving, rapid, accelerated, wild, reckless, dissipated, pay. 
+ANT: Loose, insecure, slow, tardy, steady, sober. 
+
+Calculate
+SYN: Estimate, consider, weigh, number, count, apportion, proportion, investigate, reckon, rate, compute. 
+ANT: Guess, conjecture, hit, chance, risk, stake, miscalculate. 
+
+Soon
+SYN: Shortly, quickly, promptly, early. 
+ANT: Late, slowly, tardily
+
+Solid
+SYN: Hard, firm, compact, resistant, dense, substantial, weighty, strong, valid, just, sound, impenetrable, stable, cubic. 
+ANT: Soft, hollow, yielding, frail, brittle, flimsy, elastic, resilient, malleable, impressible, fluid, liquid, frivolous, light, trifling, weak, invalid, unsound, fallacious, weakly. 
+
+Hope
+SYN: Anticipation, prospect, vision, longing, confidence, desire, expectation, trust. 
+ANT: Despair, despondency, distrust, disbelief, abandonment, abjuration. 
+
+Answer
+SYN: Reply, response, counter-argument, confutation, acceptance, tally, counterpart, solution, vindication, apology, exculpation, defense, rejoinder, repartee, retort. 
+ANT: Challenge, question, defiance, summons, interrogation, query. 
+
+Fever
+SYN: Heat, ardor, fervor, broil, flush, ferment, passion. 
+ANT: Coolness, composure, frigidity, iciness, indifference. 
+
+Wife
+SYN: Consort, spouse, helpmeet, helpmate. 
+ANT: Mistress, husband. 
+
+Zero
+SYN: Naught, cipher, nothing. 
+ANT: Something, creature. 
+
+Velocity
+SYN: Quickness, swiftness, speed, celerity, rapidity, fleetness. 
+ANT: Slowness, sluggishness, tardiness, languor, cumbrousness, inactivity. 
+
+Master 
+SYN: Conquer, overcome, subdue, overpower 
+ANT: Yield, fail, surrender, succumb 
+
+Contact
+SYN: Touch, contiguity, continuity, apposition, adjunction. 
+ANT: Proximity, adjacence, interruption, disconnection, separation, distance, isolation, noncontact.
+
+Zenith 
+SYN: Height, highest_point, pinnacle, acme, summit, culmination, maximum 
+ANT: Nadir, lowest_point, depth, minimum 
+
+Exception
+SYN: Qualification, separation, exclusion. 
+ANT: Statement, rule, class, proposition.
+
+Guide 
+SYN: Lead, direct, conduct, pilot, regulate, superintend, influence, train, manage. 
+ANT: Mislead, misconduct, misdirect, mismanage, misregulate, misguide, miseducate, betray, deceive
+
+Handle
+SYN: Feel, treat, use, manage, manipulate, touch, wield, discuss. 
+ANT: Drop, mismanage, bungle.
+
+Handsome
+SYN: Comely, good-looking, generous, liberal, beautiful, ample, pretty, graceful, lovely, elegant. 
+ANT: Uncomely, ill-looking, ungenerous, illiberal, unhandsome.
+
+Information 
+SYN: Instruction, advice, counsel, notice, notification, knowledge 
+ANT: Concealment, biding, occultation, mystification, ignorance 
+
+Reply
+SYN: Replicate, answer, respond, rejoin 
+ANT: Ignore, drop, pretermit, pass, disregard 
+
+Report
+SYN: tidings, announce, ment, relation, narration, recital, description, communication, declaration, news, rumor, fame, repute, noise, reverberation 
+ANT: Silence, suppression, misannouncement, fabrication, noiselessness 
+
+Satellite 
+SYN: Attendant, follower, subordinate, shadow, associate, hanger-on, second 
+ANT: Leader, principal 
+
+Inherit 
+SYN: Occupy, possess, enjoy 
+ANT: Acquire, earn, gain, squander, alienate, dissipate, bequeath, leave, demise, devise 
+
+Injure 
+SYN: Damage, wound, hurt, wrong, impair, maltreat, cripple, mar, spoil, sully, harm 
+ANT: profit, repair, advance, advantage 
+
+Install 
+SYN: Establish, institute, induct, invest, inaugurate, {invest_with_office} 
+ANT: Deprive, disinstall, strip, degrade, disinvest, eject
+
+Issue 
+SYN: Effect, outcome, manifestation, end, result, progeny, posterity, conclusion, consequence, upshot, children, offspring 
+ANT: Cause, operation, working, principle, law, system, action, influence, origination, commencement, paternity, ancestry 
+
+Vain 
+SYN: Empty, worthless, fruitless, unsatisfying, unavailing, idle, ineffectual, egotistic, showy, unreal, conceited, arrogant 
+ANT: Solid, substantial, sound, worthy, efficient, effectual, cogent, potent, unconceited, modest, real 
+
+Valid 
+SYN: Strong, powerful, cogent, weighty, sound, substantial, available, efficient, sufficient, operative, conclusive 
+ANT: Weak, invalid, powerless, unsound, unsubstantial, unavailable, inefficient, insufficient, inoperative, obsolete, effete, superseded, inconclusive 
+
+Variety 
+SYN: Difference, diversity, medley, miscellany, multiplicity, multiformity, abnormity 
+ANT: Uniformity, species, type, specimen 
+
+Jealous 
+SYN: Envious, self-anxious, covetous, invidious, suspicious 
+ANT: Unenvious, liberal, genial, self-denying, indifferent, unjealous 
+
+Joy 
+SYN: Gladness, pleasure, delight, happiness, exultation, transport, felicity, ecstasy, rapture, bites, gaiety, mirth, merriment, festivity, hilarity 
+ANT: Sorrow, pain, trouble, misery, melancholy, grief, affliction, tears, depression, despondency, despair
+
+Jungle 
+SYN: Thicket, brake, involution, ravelling, entanglement, labyrinth, wilderness 
+ANT: Open_place, order, arrangement, array, system
+
+Justify 
+SYN: Clear, vindicate, exonerate, defend, absolve, excuse 
+ANT: Condemn, censure, convict, criminate 
+
+Keep 
+SYN: Hold, restrain, retain, detain, guard, preserve, suppress, repress, conceal, tend, support, maintain, conduct, continue, obey, haunt, observe, frequent, celebrate, protect, adhere_to, practise, binder, sustain 
+ANT: Release, acquit, liberate, send, dismiss, neglect, divulge, discard, abandon, intermit, disobey, disregard, transgress, forsake, desert
+
+Knowledge 
+SYN: Apprehension, comprehension, recognition, understanding, conversance, experience, acquaintance, familiarity, cognizance, notice, information, instruction, enlightenment, scholarship, attainments, acquirements 
+ANT: Misapprehension, inobservance, incomprehension, misunderstanding, misconception, inconversance, inexperience, ignorance, unfamiliarity, incognizance, misinformation, deception, misinstruction, uneducatedness, untutoredness, rudeness, illiterateness 
+
+Lame 
+SYN: Weak, faltering, hobbling, hesitating, ineffective, impotent, crippled, halt, defective, imperfect 
+ANT: Robust, agile, potent, efficient, satisfactory, cogent, convincing, tolling, effective 
+
+Language 
+SYN: Speech, talk, conversation, dialect, discourse, tongue, diction, phraseology, articulation, accents, vernacular, expression 
+ANT: Jargon, jabber, gibberish, babel, gabble, cry, whine, bark, howl, roar, &c, obmutescence, dumbness, muteness, inarticulateness, speechless_ness 
+
+League 
+SYN: Bond, combination, alliance, compact, confederacy, union, coalition, confederation 
+ANT: Dissolution, disconnection, neutrality, secession, disunion, disruption, alienation, divorce 
+
+Love 
+SYN: Affection, attachment, passion, devotion, benevolence, charity, kindness 
+ANT: Hatred, dislike, disaffection, alienation, estrangement, bitterness, coldness, Indifference, repugnance, infidelity, desertion, unkindness, malice, uncharitableness 
+
+Mad 
+SYN: Insane, demented, furious, lunatic, infuriated, crazy, maniacal, frantic, rabid, wild, distracted 
+ANT: Sane, sound, sensible, quiet, composed, unexcited, sober 
+
+make 
+SYN: Create, produce, fashion, frame, fabricate, construct, effect perform, execute, find, gain, compel, establish, constitute, reach, mould, shape, form, bring_about 
+ANT: Annihilate, unmake, undo, dismember, disintegrate, destroy, defeat, miss, lose, mar, disestablish 
+
+Marvel 
+SYN: Wonder, prodigy, admiration, portent, miracle, astonishment, amazement, phenomenon 
+ANT: Incuriosity, unconcern, joke, trifle, farce, bagatelle, moonshine, cipher, drug, imposture, juggle 
+
+Whole 
+SYN: Total, entire, all, well, complete, sound, healthy, perfect, unimpaired, undiminished, integral, undivided, gross 
+ANT: Partial, imperfect, incomplete, unsound, sick, impaired, diminished, fractional, divided, sectional 
+
+Wonderful 
+SYN: amazing, astonishing, wondrous, admirable, strange, striking, surprising, awful, prodigious, portentous, marvelous, miraculous, supernatural, unprecedented, startling 
+ANT: non-amazing, unastonishing, unsurprising, common, everyday, regular, normal, customary, usual, expected, anticipated, calculated, current, natural, unwonderful, unmarvelous 
+
+Word 
+SYN: Term, expression, message, account, tidings, order, vocable, signal, engagement, promise 
+ANT: Idea, conception 
+
+Mass 
+SYN: Lump, body, bulk, concretion, magnitude, majority, heap 
+ANT: Fragment, bit, portion, morsel, section, minority 
+
+Maximum 
+SYN: Ultimatum, climax, zenith, apex, completion, utmost, consummation, culmination, acme 
+ANT: Initiative, commencement, indication, incompletion, abortion, decrease, wane, minimum, morsel, fragment 
+
+Negative 
+SYN: Denying, privative, disclaiming, indirect 
+ANT: Assertive, attributive, positive, direct 
+
+Negotiate 
+SYN: Transact, effect, pass, perform 
+ANT: Mismanage, misconduct, quash, stop 
+
+New 
+SYN: Novel, recent, fresh, modern 
+ANT: Old, ancient, antique, antiquated, obsolete 
+
+Nice 
+SYN: Fastidious, scrupulous, accurate, neat, discerning, dainty, pleasant, agreeable, exact, fine, finished, particular 
+ANT: Coarse, unscrupulous, inaccurate, rude, rough, undiscriminating, nasty, nauseous, disagreeable 
+
+Objective 
+SYN: Extrinsic, concrete, external 
+ANT: Intrinsic, abstract, notional, subjective 
+
+Odd 
+SYN: Alone, sole, unmatched, remaining, over, fragmentary, uneven, singular, peculiar, queer, quaint, fantastical, uncommon, nondescript 
+ANT: Aggregate, consociate, matched, balanced, squared, integrant, even, common, usual, regular, normal 
+
+Official
+SYN: Administrative, authoritative, negotiative, functional, professional 
+ANT: Private, unofficial, unprofessional 
+
+Original 
+SYN: Primary, initiatory, primordial, peculiar, pristine, ancient, former, first 
+ANT: Subsequent, terminal, modern, later, derivative 
+
+Parallel 
+SYN: Correspondent, congruous, correlative, analogous, concurrent, equidistant 
+ANT: Different, opposed, incongruous, irrelative, unanalogous, divergent, contrariant 
+
+Paradox 
+SYN: Contradiction, enigma, mystery, absurdity, ambiguity 
+ANT: Precept, proposition, axiom, truism, postulate 
+
+Pain
+SYN: Penalty, suffering, distress, uneasiness, grief, (labour, effort, in_the, pains)_anguish, torture, agony 
+ANT: Reward, remuneration, ease, gratification, joy, pleasure, felicity, relief, alleviation, enjoyment, delight 
+
+Penalty 
+SYN: Pain, punishment, forfeiture, price, fare, retribution, amercement 
+ANT: Guerdon, wages, reward, premium, prize, douceur, sop, bribe, honorarium, compensation, remuneration 
+
+People 
+SYN: Nation, community, populace, mob, crowd, vulgar, herd, mass, persons, inhabitants, commonalty, fellow-creatures, tribe, race 
+ANT: Aristocracy, nobility, government, ruler, oligarchy 
+
+Perfect 
+SYN: Consummate, complete, full, indeficient, immaculate, absolute, faultless, impeccable, infallible, unblemished, blameless, unexceptionable, mature, ripe 
+ANT: Incomplete, meagre, faulty, scant, short, deficient, defective, imperfect, peccable, fallible, blemished, marred, spoilt 
+
+Possible 
+SYN: Practicable, feasible, likely, potential 
+ANT: Impracticable, impossible 
+
+Price 
+SYN: Cost, figure, charge, expense, compensation, value, appraisement, worth 
+ANT: Donation, discount, allowance, remittance, abatement 
+
+Profit 
+SYN: Gain, emolument, advantage, avail, acquisition, benefit_service, use, improvement 
+ANT: Loss, detriment, damage, disadvantage, waste 
+
+Quality 
+SYN: Condition, character, property, attribute, peculiarity, disposition, temper, sort, kind, description, capacity, power, virtue, nature, tendency 
+ANT: Anomalousness, heterogeneousness, nondescript, incapacity, weakness, instistinctiveness, ineffectiveness, disqualification, negation, disability 
+
+Question 
+SYN: Inquiry, interrogation, doubt, scrutiny, investigation, topic 
+ANT: Reply, response, solution, answer, explanation, admission, concession 
+
+Quit 
+SYN: Leave, resign, abandon, relinquish, discharge, release, surrender, give_up, depart_from, forsake 
+ANT: Seek, occupy, invade, bind, enforce, haunt, enter 
+
+Quick 
+SYN: Fast, rapid, speedy, expeditious, swift, hasty, prompt, ready, clever, sharp, shrewd, adroit, keen, fleet, active, brisk, nimble, lively, agile, alert, sprightly, transient, intelligent, irascible 
+ANT: Slow, tardy, sluggish, inert, inactive, dull, insensitive 
+
+Random 
+SYN: Haphazard, stray, chance, wild, aimless, purposeless, unpremeditated, casual, vague, accidental 
+ANT: Steady, aimed, intended, regular, controlled, purposed, intentional, deliberate, designed, normal, systematic 
+
+Rank
+SYN: Row, line, tier, order, degree, grade, dignity 
+ANT: Disconnection, disorder, incontinuity, solution, intermission, hiatus, plebeianism, meanness, commonalty 
+
+Range
+SYN: Rank, dispose, class, place, order, collocate, file, concatenate, ramble, stroll, rove 
+ANT: Disturb, disconnect, disorder, derange, intermit, disconnect, remain, be_stationary 
+
+Read 
+SYN: Peruse, interpret, decipher, unravel, discover, recognize, learn 
+ANT: Misread, misinterpret, overlook, misobserve 
+
+Refresh 
+SYN: Cool, refrigerate, in, vigorate, revive, reanimate, renovate, recreate, renew, restore, cheer, freshen, brace 
+ANT: Heat, oppress, weary, burden, afflict, annoy, tire, fatigue, exhaust, debilitate, enervate, relax 
+
+Sarcasm 
+SYN: Gibe, chaff, irony, jeer, satire, ridicule, taunt, sardonicism 
+ANT: Eulogy, compliment, panegyric, eulogium 
+
+Season 
+SYN: Period, time, conjuncture, while, occasion, opportunity, suitableness, timeliness 
+ANT: Untimeliness, unsuitableness, contretemps, unseasonableness 
+
+Security 
+SYN: Pledge, guarantee, warranty, protection, safeguard, pawn, deposit, bond, defence, guard, shelter, safety, certainty, ease, assurance, carelessness, confidence 
+ANT: Parole, word, understanding, honor, defencelessness, exposure, danger, peril, insecurity, uncertainty, care, anxiety, precariousness 
+
+Select
+SYN: Cull, pick_choose, segregate, elect, prefer 
+ANT: Lump, confound, sweep 
+
+Effect
+SYN: Result, consequence, issue, pi, Goods, chattels, property, movables, commodities 
+ANT: Origin, cause 
+
+Effort 
+SYN: Trial, attempt, endeavor, exertion 
+ANT: Failure, misadventure, unsuccess, frustration, futility, inactivity, ease, facility, spontaneity 
+
+Element 
+SYN: Component, part, atom 
+ANT: Whole, total, mass, aggregate 
+
+Society 
+SYN: community, association, collection, companionship, fellowship, connection, participation, company, sociality, communion, intercourse, sodality 
+ANT: Individuality, personality, segregation, separation, solitariness, missociality, privacy, dissociation, disconnection 
+
+Teach 
+SYN: Impart, tell, direct, instruct, inform, counsel, admonish, educate, inculcate, enlighten, advise, indoctrinate, train 
+ANT: Withhold, misteach, misdirect, misinstruct, misinform, misguide, mislead 
+
+Teach 
+SYN: Impart, tell, direct, instruct, inform, counsel, admonish, educate, inculcate, enlighten, advise, indoctrinate, train 
+ANT: Withhold, misteach, misdirect, misinstruct, misinform, misguide, mislead 
+
+Title 
+SYN: Inscription, heading, denomination, style, designation, appellation, distinction, address, epithet, name 
+ANT: Non-designation, indistinction, nondescript, namelessness, non-denomination 
+
+Total
+SYN: Aggregate, whole, entirety, sum, completion 
+ANT: Part, item, portion, contribution 
+
+Travel 
+SYN: Journey, wandering, migration, rustication, pilgrimage, excursion, tramp, expedition, trip, ramble, voyage, tour, peregrination 
+ANT: Best, settlement, domestication 
+
+Ultimate 
+SYN: Last, final, extreme, conclusive, remotest, farthest 
+ANT: Prior, intermediate, proximate, preliminary 
+
+Understand 
+SYN: Apprehend, comprehend, know, perceive, discern, conceive, learn, recognize, Interpret, imply 
+ANT: Misapprehend, miscomprehend, ignore, misinterpret, declare, state, enunciate, express 
+
+Unity 
+SYN: Oneness, singleness, individuality, concord, conjunction, agreement, uniformity, indivisibility 
+ANT: Plurality, multitude, complexity, multiplicity, discord, disjunction, separation, severance, variety, heterogeneity, diversity, incongruity, divisibility 
+
+Upset 
+SYN: Overturn, overthrow, capsize, overbalance, subvert, disestablish 
+ANT: Establish, plant, stabilitate, corroborate, confirm 
+
+Urgent 
+SYN: Pressing, imperative, immediate, importunate, forcible, strenuous, serious, grave, momentous, indeferrible 
+ANT: Unimportant, insignificant, trifling, trivial, deferrable 
+
+Useful 
+SYN: Advantageous, profitable, helpful, serviceable, beneficial, available, adapted, suited, conducive 
+ANT: Disadvantageous, unprofitable, obstructive, retardative, preventative, antagonistic, hostile, cumbersome, burdensome, unbeneficial, unavailable, inconducive, useless, fruitless, ineffectual 
+
+Vague 
+SYN: General, lax, indefinite, undetermined, popular, intangible, equivocal, unsettled, uncertain, ill-defined, pointless 
+ANT: Strict, definite, determined, limited, scientific, pointed, specific 
+
+Verify 
+SYN: Establish, confirm, fulfill, authenticate, substantiate, identify, realize, test, warrant, demonstrate 
+ANT: Disestablish, subvert, fail, falsify, mistake, misrepresent, misstate, disappoint, misdemonstrate 
+
+View 
+SYN: Behold, examine, Inspect, explore, survey, consider, contemplate, reconnoitre, observe, regard, estimate, judge 
+ANT: Ignore, overlook, disregard, misconsider, misinspect, misobserve, misestimate, misjudge 
+
+Walk 
+SYN: Step, stride, march, stalk, plod, tread, tramp, trudge 
+ANT: Halt, stop, stand_still, ride 
+
+Welcome
+SYN: Grateful, acceptable, pleasant, agreeable, gratifying, pleasing 
+ANT: Unwelcome, ungrateful, unacceptable, distasteful, unpleasant, disagreeable 
+
+Work 
+SYN: Exertion, effort, toil, labor, employment, performance, production, product, effect, result, composition, achievement, operation, is_sue, fruit 
+ANT: Effortlessness, inertia, rest, inoperativeness, non-employment, nonperformance, non-production, abortion, miscarriage, frustration, neutralization, fruitlessness 
+
+Yield 
+SYN: Furnish, produce, afford, bear, render, relinquish, give_in, let_go, forego, accede, acquiesce, resign, surrender, concede, allow, grant, submit, succumb, comply, consent, agree 
+ANT: Withdraw, withhold, retain, deny, refuse, vindicate, assert, claim, disallow, appropriate, resist, dissent, protest, recalcitrate, struggle, strive 
+
+Yoke 
+SYN: Couple, conjoin, connect, link, enslave, subjugate 
+ANT: Dissever, divorce, disconnect, liberate, release, manumit, enfranchise, Young
+
+Accept 
+SYN: Welcome, hail, admit, recognize, avow, acknowledge, take, accede_to, receive, assent_to 
+ANT: Refuse, decline, reject, disown, disavow, ignore, repudiate 
+
+Accident 
+SYN: Chance, fortuity, disaster, incident, adventure, casualty, hazard, contingency, calamity, misadventure, mishap 
+ANT: Law, purpose, appointment, ordainment, provision, preparation 
+
+Border 
+SYN: Limit, boundary, brink, rim, verge, brim, edge, edging, band, hem, enclosure, confine 
+ANT: Land, tract, interior, substance, space, centre 
+
+Busy 
+SYN: Industrious, diligent, assiduous, engaged, occupied 
+ANT: Idle, slothful, lazy, indolent, unoccupied 
+
+Capital 
+SYN: Chief, excellent, important, cardinal, principal, consummate, high 
+ANT: Inferior, unimportant, subordinate, minor, defective, mean 
+
+Carnival 
+SYN: Revel, rout, festivity, masquerade 
+ANT: Fast, mortification, lent, retirement 
+
+Death 
+SYN: Departure, demise, decease, dissolution, mortality, fall, failure, termination, cessation, expiration, release, exit 
+ANT: Birth, rise, life, growth, vigor, animation, spirit, activity, operation, action, commencement, vitality, auspices, inauguration 
+
+Data 
+SYN: Facts, grounds, basis, axioms, postulates 
+ANT: Conjecture, assumption, problem, proposition, inference, deduction 
+
+Deal 
+SYN: Bargain, chaffer, trade, dispense, market, communicate, negotiate, traffic 
+ANT: Hold, close, stop, fail 
+
+Default 
+SYN: Lapse, forfeit, omission, defect, delinquency, absence, want, failure 
+ANT: Maintenance, appearance, plea, satisfaction, forthcoming, supply, presence 
+
+Destiny 
+SYN: Fate, decree, lot, fortune, predestination, necessity, doom, end 
+ANT: Will, volition, choice, deliberation, freedom, freewill 
+
+Ecstasy 
+SYN: Rapture, inspiration, fervor, frenzy, transport, emotion, joy, delight, enthusiasm, happiness 
+ANT: Indifference, coolness, dulness, weariness, tedium, bore, fidget, misery 
+
+Final 
+SYN: Terminal, last, latest, conclusive, definite, developed, ultimate, decisive 
+ANT: Initiative, open, unconcluded, progressive, continuous, current, incipient, inaugural, inchoate, rudimental, nascent 
+
+Find 
+SYN: Meet, confront, ascertain, experience, perceive, discover, furnish, invent 
+ANT: Miss, elude, overlook, lose, withhold, withdraw, misconstrue 
+
+Future 
+SYN: Forthcoming, coming, advenient 
+ANT: Gone, bygone, past 
+
+Genius 
+SYN: Talent, cleverness, inventiveness, creativeness, intellect, skill, giftedness, ideality, endowment, nature, gift, character, faculty 
+ANT: Stolidity, stupidity, inanity, imbecility 
+
+Glad 
+SYN: Happy, joyous, pleased, gratified, blithesome, gleeful, gladsome, delighted, cheerful, elated, joyful 
+ANT: Unhappy, sorrowful, disastrous, sorry, disappointed, dismal 
+
+Glory 
+SYN: Brightness, radiance, effulgence, honor, fame, celebrity, pomp, luster, magnificence, splendor, renown 
+ANT: Obscurity, ignominy, cloud, dishonor, degradation 
+
+Grant 
+SYN: Give, allot, bestow, confer, transfer, admit, allow, concede, convey, impart, yield, cede 
+ANT: Withhold, withdraw, reserve, resume, deny 
+
+Group 
+SYN: Cluster, bunch, knot, assemblage, collocation, class, collection, clump, order, assembly 
+ANT: Isolation, individual, crowd, confusion, medley 
+
+Harm 
+SYN: Hurt, mischief, injury, detriment, damage, evil, wrong, misfortune, ill, mishap 
+ANT: benefit, boon, amelioration, improvement, reparation, compensation, healing, remedy 
+
+Height 
+SYN: Altitude, elevation, tallness, summit, exaltation, culmination, top, apex, climax, acme, crisis 
+ANT: Depth, lowness, depression, littleness, base, abasement 
+
+Ideal 
+SYN: Mental, notional, conceptional, intellectual, creative, spiritual, poetical, supposititious, fictitious, unreal, imaginary, chimerical, fanciful, imaginative 
+ANT: Physical, visible, material, tangible, historical, real, actual, palpable, substantial 
+
+Joint 
+SYN: Articulation, junction, flexure, elbow, knee 
+ANT: Solution, disconnection, disjunction, uniformity, continuity 
+
+Judge 
+SYN: Justice, magistrate, arbitrator, umpire, referee, critic, connoisseur, authority, arbiter 
+ANT: Criminal, ignoramus, novice, tyro 
+
+Kill 
+SYN: Slay, murder, assassinate, destroy, slaughter, butcher, immolate, massacre, deaden, put_to_death, despatch 
+ANT: Resuscitate, revivify, vivify, reanimate 
+
+Legal 
+SYN: Legitimate, lawful, allowable, juridical, constitutional 
+ANT: Illegal, illegitimate, unlawful, unallowable, lay, unconstitutional 
+
+Life 
+SYN: Vitality, duration, existence, condition, conduct, animation, vivacity, personality, estate, society, morals, spirit, activity, history, career 
+ANT: Mortality, decease, death, non-existence, dullness, torpor, portraiture, lethargy, lifelessness 
+ 
+Vain 
+SYN: Empty, worthless, fruitless, unsatisfying, unavailing, idle, ineffectual, egotistic, showy, unreal, conceited, arrogant 
+ANT: Solid, substantial, sound, worthy, efficient, effectual, cogent, potent, unconceited, modest, real 
+
+Vast 
+SYN: Waste, wild, desolate, extensive, spacious, wide_spread, gigantic, wide, boundless, measureless, enormous, mighty, huge, immense, colossal, prodigious, far-reaching 
+ANT: Narrow, close, confined, frequented, populated, cultivated, tended, tilled, limited, bounded,
+
+Vigilance 
+SYN: Watchfulness, observance, wakefulness, sleeplessness, carefulness, activity, circumspection 
+ANT: Drowsiness, inattention, carelessness, indulgence, somnolence, inobservance, inactivity, indifference, connivance, unwatchfulness 
+
+Strict 
+SYN: Close, exact, accurate, rigorous, severe, stringent, nice, precise 
+ANT: Loose, inexact, inaccurate, lenient, mild, indulgent, lax 
+
+Steady 
+SYN: Firm, fixed, constant, uniform, consistent, equable, regular, undeviating, well-regulated 
+ANT: Infirm, variable, unsteady, inconstant, changeable, wavering, illregulated 
+
+Spread 
+SYN: Extend, stretch, expand, open, unfurl, divulge, propagate, publish, disperse, diffuse, overlay, distribute, scatter, circulate, disseminate, ramify 
+ANT: Contract, furl, gather, fold, close, shut, secrete, suppress, confine, restrict, repress, hush, conceal, recal, collect, stagnate, concentrate, localize 
+
+Split 
+SYN: Divide, separate, rive, cleave, crack, splinter, burst, rend, sunder, disagree, secede, disunite 
+ANT: Cohere, unite, amalgamate, coalesce, conform, agree, splice, consolidate, integrate 
+
+Sort 
+SYN: Kind, species, nature, class, order, character, rank, manner, quality, condition, description, designation, genus 
+ANT: non-description, solitariness, uniqueness, nonclassification, heterogeneity 
+
+Sin 
+SYN: Transgression, iniquity, unrighteousness, ungodliness, wickedness, evil, impurity, crime, wrongdoing, ungodliness 
+ANT: Sinlessness, obedience, holiness, righteousness, purity, godliness, goodness 
+
+Shy 
+SYN: Timid, reserved, modest, bashful, Suspicion, shrinking, chary 
+ANT: Bold, brazen-faced, impudent, audacious, reckless 
+
+Shy 
+SYN: Timid, reserved, modest, bashful, Suspicion, shrinking, chary 
+ANT: Bold, brazen-faced, impudent, audacious, reckless 
+
+Shadow 
+SYN: Umbration, reflection, image, sham, unsubstantiality, immaterial, phantom, attendant 
+ANT: Body, substance, materiality, form, principal 
+
+Send 
+SYN: Despatch, transmit, impel, cast, bestow, grant 
+ANT: Detain, withhold, arrest, withdraw, deny, recal 
+
+Seldom 
+SYN: Rarely, infrequently, occasionally, inconstantly, hardly_ever 
+ANT: Commonly, frequently, uniformly, systematically, habitually, regularly, often, invariably 
+
+See 
+SYN: Perceive, behold, descry, discern, look, view, conceive, distinguish, understand, comprehend, attend, beware, visit, experience 
+ANT: Miss, overlook, disregard, misconceive, misunderstand, ignore 
+
+Secluded 
+SYN: Retired, retreating, hidden, withdrawn, secret, private, sequestered, shaded 
+ANT: Public, exposed, frequented, open 
+
+Scope 
+SYN: Aim, object, mark, end, design, purpose, intention, drift, room, occasion, opportunity, liberty 
+ANT: Avoidance, nonintention, pretermission, inadvertence, accident, aimlessness, deviation 
+
+Scope 
+SYN: Aim, object, mark, end, design, purpose, intention, drift, room, occasion, opportunity, liberty 
+ANT: Avoidance, nonintention, pretermission, inadvertence, accident, aimlessness, deviation 
+
+Save 
+SYN: Preserve, rescue, secure, reserve, spare, hinder, obviate, prevent, snatch, catch, economize, husband 
+ANT: Lose, betray, abandon, destroy, surrender, {[iiupo-r]?}, facilitate, promote, induce, occasion, cause, miss, expose, imperil, endanger, risk, waste, lavish, [See SCATTER] 
+
+Sample 
+SYN: Specimen, pattern, illustration, case, exemplification, scantling 
+ANT: Exception, deviation, abnormity, monstrosity, variety, nondescript, hybrid, nonsuch 
+
+Sample 
+SYN: Specimen, pattern, illustration, case, exemplification, scantling 
+ANT: Exception, deviation, abnormity, monstrosity, variety, nondescript, hybrid, nonsuch 
+
+Routine 
+SYN: Round, course, succession, order, rule, custom, system, sequence, gradation, rotation, stereotype, prescription, tenor, uniformity, method, settlement, regulation 
+ANT: Casualty, chance, lottery, fortune, impulse, interest, individuality, merit, spontaneity, alterableness, margin, deviation, modification 
+
+Kind 
+SYN: Skin, peel, bark, husk 
+ANT: Kernel, meat, wood, pulp, fruit 
+
+Riddle 
+SYN: Puzzle, enigma, ambiguity, problem, paradox 
+ANT: Solution, explanation, statement, proposition, axiom 
+
+Revile 
+SYN: Reproach, asperse, upbraid, malign, slander, calumniate, vilify, abuse, blaspheme 
+ANT: Flatter, compliment, eulogize, panegyrize, laud, extol 
+
+Revenue 
+SYN: Income, produce, return, proceeds, fruits, wealth, enrichment 
+ANT: Outgoings, expenditure, waste, deductions, exhaustion, expense, impoverishment 
+
+Rational 
+SYN: Sane, sound, intelligent, reasoning, reasonable, judicious, sober, sensible, probable, equitable, moderate, fair 
+ANT: Insane, unsound, weak, silly, unintelligent, absurd, injudicious, fanciful, extravagant, preposterous, unreasoning, unreasonable, irrational, exorbitant 
+
+Random 
+SYN: Haphazard, stray, chance, wild, aimless, purposeless, unpremeditated, casual, vague, accidental 
+ANT: Steady, aimed, intended, regular, controlled, purposed, intentional, deliberate, designed, normal, systematic 
+
+Random 
+SYN: Haphazard, stray, chance, wild, aimless, purposeless, unpremeditated, casual, vague, accidental 
+ANT: Steady, aimed, intended, regular, controlled, purposed, intentional, deliberate, designed, normal, systematic 
+
+Quarter 
+SYN: Region, district, locality, territory, mercy, forbearance, pity 
+ANT: Extermination, mercilessness, unsparingness, pitilessness, ruthless, ness 
+
+Quality 
+SYN: Condition, character, property, attribute, peculiarity, disposition, temper, sort, kind, description, capacity, power, virtue, nature, tendency 
+ANT: Anomalousness, heterogeneousness, nondescript, incapacity, weakness, instistinctiveness, ineffectiveness, disqualification, negation, disability 
+
+Punish 
+SYN: Chastise, castigate, chasten, correct, whip, scourge 
+ANT: Reward, recompense, remunerate, indemnify 
+
+Prudent 
+SYN: Wise, wary, cautious, circumspect, discreet, careful, judicious 
+ANT: Foolish, unwary, incautious, uncircumspect, indiscreet, rash, imprudent, silly, reckless, audacious 
+
+Proud 
+SYN: Arrogant, haughty, imperious, supercilious, presumptuous, boastful, vain_glorious, vain, ostentatious, elated, self-satisfied, lofty, imposing, magnificent, self-conscious 
+ANT: Deferential, humble, affable, unpresuming, meek, lowly, ashamed, unimposing, mean 
+
+Proportion 
+SYN: Adaptation, relation, rate, distribution, adjustment, symmetry, interrelationship, uniformity, correlation 
+ANT: Misproportion, misadjustment, incongruity, disparity, disharmony, disorder, irrelation, disproportion 
+
+Projectile 
+SYN: Missile 
+ANT: Weapon, sidearms, handarms 
+
+Product 
+SYN: Fruit, result, issue, consequence, effect, emanation, work 
+ANT: Cause, principle, power, motive, energy, operation, action, tendency, law 
+
+Proceed 
+SYN: Move, pass, advance, progress, continue, issue, emanate, flow, arise 
+ANT: Recede, deviate, retreat, stand, stop, stay, desist, discontinue, retire 
+
+Private 
+SYN: Special, peculiar, individual, secret, not_public, retired, privy 
+ANT: General, public, open, unconcealed 
+
+Pride 
+SYN: Loftiness, haughtiness, lordliness, self-exaltation, arrogance, conceit, vainglory 
+ANT: Lowliness, meekness, modesty, self-distrust 
+
+Prevent 
+SYN: Hinder, obstruct, bar, neutralize, nullify, thwart, intercept, anticipate, forefend, frustrate, obviate, checkmate 
+ANT: Promote, aid, facilitate, expedite, encourage, advance, accelerate, induce, cause, produce 
+
+Presentation 
+SYN: Introduction, exhibition, offer, delivery, gift, donation, bestowal, grant, endowment 
+ANT: Withdrawal, removal, concealment, suppression, retention, withholding, refusal, nonpresentation 
+
+Prepare 
+SYN: Fit, adapt, qualify, ad, just, provide, arrange, order, lay, plan, equip, furnish, make_ready 
+ANT: Misfit, misadapt, misprovide, derange, disarrange, demolish, subvert, disconcert 
+
+Pregnant 
+SYN: Procreant, generative, prolific, teeming, significant, fraught, fruitful, replete, with_child, enceinte 
+ANT: Sterile, unproductive, barren, void, meaningless 
+
+Prediction 
+SYN: Prophecy, prognostication, vaticination, foreannouncement, premonstration, foretelling, forebodement, presage, augury, foreshowing 
+ANT: Narration, relation, history, account, report 
+
+Pound 
+SYN: Beat, bruise, pulverize, triturate 
+ANT: Soothe, stroke, amalgamate, compound 
+
+Possess 
+SYN: Occupy, enjoy, have, hold, entertain, own 
+ANT: Abandon, renounce, abjure, surrender, lose, forfeit, resign 
+
+Positive 
+SYN: real, actual, substantial, absolute, independent, unconditional, unequivocal, explicit, fixed, settled, definitive, indisputable, decisive, express, enacted, assured, confident, direct, dogmatic, overbearing, dogmatical 
+ANT: Negative, insubstantial, unreal, fictitious, imaginary, relative, contingent, dependent, conditional, implied, dubious, questionable, moral, uncertain, doubtful, indirect, occasional, suspicious 
+
+Popular 
+SYN: Common, current, vulgar, public, general, received, favorite, beloved, prevailing, approved, widespread, liked 
+ANT: Exclusive, restricted, scientific, esoteric, unpopular, odious, detested 
+
+Platonic 
+SYN: Cold, intellectual, unsensual, mental, philosophical 
+ANT: Ardent, animal, sensual, passionate, sexual 
+
+Physical 
+SYN: Natural, material, visible, tangible, substantial, corporeal 
+ANT: Mental, moral, intellectual, spiritual, immaterial, invisible, intangible, unsubstantial, supernatural, hyperphysical 
+
+Perspicuity 
+SYN: Clearness, lucidity, transparency, intelligibility 
+ANT: Obscurity, turbidity, unintelligibility, mystification, confusedness 
+
+Person 
+SYN: Individual, special, peculiar, idiosyncratic 
+ANT: Generic, common 
+
+Perpetual 
+SYN: Constant, unceasing, endless, eternal, everlasting, unfailing, perennial, continual, enduring, incessant, uninterrupted 
+ANT: Inconstant, periodic, recurrent, temporary, transient, falling, exhaustible, occasional, momentary, casual 
+
+Period 
+SYN: Time, date, epoch, era, age, duration, continuance, limit, bound, end, conclusion, determination 
+ANT: Eternity, datelessness, immemoriality, infinity, perpetuity, illimitability, endlessness, indefiniteness, indeterminateness 
+
+Perfect 
+SYN: Consummate, complete, full, indeficient, immaculate, absolute, faultless, impeccable, infallible, unblemished, blameless, unexceptionable, mature, ripe 
+ANT: Incomplete, meagre, faulty, scant, short, deficient, defective, imperfect, peccable, fallible, blemished, marred, spoilt 
+
+People 
+SYN: Nation, community, populace, mob, crowd, vulgar, herd, mass, persons, inhabitants, commonalty, fellow-creatures, tribe, race 
+ANT: Aristocracy, nobility, government, ruler, oligarchy 
+
+Paramount 
+SYN: Superior, preeminent, chief, principal, supreme 
+ANT: Subordinate, minor, inferior, secondary 
+
+Palm 
+SYN: Trophy, prize, crown, laurels, bays 
+ANT: Brand, stigma, shame, blot 
+
+Pain
+SYN: Hurt, grieve, afflict, torment, rack, agonize, trouble, torture, aggrieve, annoy, distress 
+ANT: Gratify, please, delight, rejoice, charm, relieve, ease, refresh
+
+Pageant 
+SYN: Pomp, procession, exhibition, display, spectacle, show, ceremony 
+ANT: Dream, illusion, phantasmagoria, mockery 
+
+Pacific 
+SYN: Conciliatory, mild, appeasing, calm, tranquil, peaceful 
+ANT: Unconciliatory, harsh, quarrelsome, exasperating, irritating, turbulent, noisy, tumultuous, warlike 
+
+Pace 
+SYN: Step, stride, tread, gait 
+ANT: Standing_still
+
+Overflow 
+SYN: Redundancy, exuberance, superabundance, deluge, inundation 
+ANT: Deficiency, exhaustion, subsidence 
+
+Overcast 
+SYN: Cloudy, nubilous, lowering, murky 
+ANT: Cloudless, clear, luminous, azure 
+
+Outlet 
+SYN: Egress, exit, vent 
+ANT: Ingress, entrance 
+
+Original 
+SYN: Primary, initiatory, primordial, peculiar, pristine, ancient, former, first 
+ANT: Subsequent, terminal, modern, later, derivative 
+
+Organize 
+SYN: Shape, adjust, constitute, frame, dispose, arrange, construct 
+ANT: Distort, break_up, annul, disorganize, dismember, disband 
+
+Organization 
+SYN: Structure, form, construction 
+ANT: Disorganization 
+
+Orderly 
+SYN: Regular, equable, peaceable, methodical, quiet 
+ANT: Irregular, disorderly, riotous 
+
+Orbit 
+SYN: Revolution, path, circuit, sphere 
+ANT: Eccentricity, deviation, perturbation 
+
+Oppression 
+SYN: Cruelty, tyranny, severity, injustice, hardship 
+ANT: Kindness, mercy, clemency, leniency, justice
+
+Operative 
+SYN: Active, efficacious, serviceable, binding 
+ANT: Inefficacious, inoperative 
+
+Opening 
+SYN: Aperture, gap, opportunity, space, commencement, initiation, start, inauguration, hole, fissure, chink, beginning 
+ANT: Occlusion, obstruction, stopgap, unreasonableness, contretemps, inopportuneness, enclosure, termination, close, end, conclusion 
+
+Onward 
+SYN: Forward, ahead, in_advance 
+ANT: Backward, astorm, aback 
+
+One 
+SYN: Single, undivided, individual 
+ANT: Many 
+
+Old 
+SYN: Aged, pristine, long-standing, ancient, preceding, antiquated, obsolete, senile_antique 
+ANT: Youthful, young, recent, fresh, modern, subsequent, newfashioned, current 
+
+Often 
+SYN: Frequently, repeatedly 
+ANT: Infrequently, seldom 
+
+Offer 
+SYN: Propose, exhibit, proffer, present, tender, extend, adduce, volunteer 
+ANT: Withhold, withdraw, retract, retain, alienate, divest 
+
+Odd 
+SYN: Alone, sole, unmatched, remaining, over, fragmentary, uneven, singular, peculiar, queer, quaint, fantastical, uncommon, nondescript 
+ANT: Aggregate, consociate, matched, balanced, squared, integrant, even, common, usual, regular, normal 
+
+Obvious 
+SYN: Plain, self-evident, manifest, explicit, apparent, open, patent 
+ANT: Remote, obscure, farfetched, involved, latent
+
+Oblique 
+SYN: Divergent, diagonal, lateral, angular 
+ANT: straight, rectilineal, forward 
+
+Objective 
+SYN: Extrinsic, concrete, external 
+ANT: Intrinsic, abstract, notional, subjective 
+
+Notify 
+SYN: Intimate, declare, announce, give_notice_to, acquaint, communicate, apprise, inform, warn 
+ANT: Suppress, withhold, conceal, misreport 
+
+Nominate 
+SYN: Name, specify, appoint, individualize, define, invest, present, entitle 
+ANT: Suggest, indicate, conjecture, describe, recal, deprive, cancel, withdraw, divert 
+
+Noise 
+SYN: Sound, clamor, rattle, din, uproar, tumult 
+ANT: Note, voice, music, melody, silence, still_n_ess, voicelessness, hush 
+
+Noble 
+SYN: Grand, aristocratic, generous, illustrious, exalted, worthy, magnanimous, dignified, excellent, lofty-minded, honorable, fine 
+ANT: Mean, plebeian, ignoble, paltry 
+
+Neutral 
+SYN: Uninterfering, impartial, indifferent, negative, unavowed 
+ANT: Partial, interested, interfering, active, positive, declared, avowed 
+
+Necessary 
+SYN: Certain, inevitable, indispensable, requisite, essential, compulsory, needful, expedient 
+ANT: Contingent, casual, optional, discretional, unnecessary, unessential, free 
+
+Necessity 
+SYN: Indispensableness, inevitableness, need, indigence, requirement, want, fate, destiny 
+ANT: dispensableness, uncertainty, superfluity, uselessness, competence, affluence, casualty, contingency, freedom, choice 
+
+Naught 
+SYN: Nothing 
+ANT: Aught, anything, everything 
+
+Narrate 
+SYN: recite, tell, report, detail, relate, rehearse, recount 
+ANT: Suppress, conceal, blink, misreport, misrepresent, misrelate, misstate 
+
+Myth 
+SYN: Fable, legend, parable, supposition, fiction, allegory, fabulous_story, fabrication 
+ANT: Fact, history, narrative 
+
+Mute 
+SYN: Silent, speechless, dumb, taciturn, voiceless, still, death-like 
+ANT: Chattering, talkative, garrulous, loquacious, vocal, tuneful, loud 
+
+Mundane 
+SYN: Worldly, secular, temporal, earthly 
+ANT: Unworldly, spiritual, heavenly, ethereal, supramundane 
+
+Multiplication 
+SYN: Multiplicity, plurality, multitudinousness, multifariousness, multitude, repetition, reiter_ation, reproduction, augmentation, swarming, teeming 
+ANT: Singularity, unity, scantiness, rarity, diminution, extinction 
+
+Movement 
+SYN: Motion, move, change_of_place 
+ANT: Stop, rest, pause, stillness, quietness 
+
+Move 
+SYN: Change, [See CONTROL_and_GOVERN], progress, stir, affect, agitate, actuate, impel, propose, advance, propel, instigate, provoke 
+ANT: Stand, stop, lie, rest, stay, allay, deter, prevent, arrest, withdraw 
+
+Moral 
+SYN: Mental, ideal, intellectual, spiritual, ethical, probable, inferential, presumptive, analogous, virtuous, well-conducted 
+ANT: Physical, material, practical, demonstrative, mathematical, immoral, vicious 
+
+Mood 
+SYN: State, temper, humor, feeling, vein, disposition 
+ANT: Mind, character, disposition, nature 
+
+Monster 
+SYN: Prodigy, portent, marvel, deformity, abnormity, fright, colossus, monstrosity, leviathan, fiend, brute 
+ANT: Beauty, Venus, Adonis, Narcissus, gem, pet, jewel, angel, augury, harbinger 
+
+Monitor 
+SYN: Adviser, instructor, mentor, warner 
+ANT: Misadviser, misinstructor, deceiver, misdirector, back-friend, seducer 
+
+Moment 
+SYN: Instant, second, importance, twinkling, trice, weight, force, gravity, consequence, avail 
+ANT: Age, period, century, generation, triviality, insignificance, worthlessness, unimportance, inefficacy 
+
+Moil 
+SYN: Daub, stain, dirt, muck, soil 
+ANT: Cleanse, clean, absterge, purify 
+
+Model 
+SYN: Standard, pattern, example, type, mould, design, copy 
+ANT: Imitation, copy, production, execution, work 
+
+Mobile 
+SYN: Movable, sensitive, fickle, inconstant, variable, ductile 
+ANT: Immovable, inexorable, unfeeling, unvarying 
+
+Missile 
+SYN: Projectile 
+ANT: Artillery, band-arms, sidearm, Mission 
+
+Miserable 
+SYN: Abject, forlorn, pitiable, wretched, worthless, despicable, disconsolate 
+ANT: Respectable, worthy, happy, contented, comfortable 
+
+Mischief 
+SYN: Damage, hurt, detriment, disservice, annoyance, injury, ill-turn, damage, barm 
+ANT: Compensation, good-turn, benefit, favor, gratification 
+
+Misadventure 
+SYN: Failure, mishap, misfortune 
+ANT: Success, achievement 
+
+Mind 
+SYN: Soul, spirit, intellect, understanding, opinion, sentiment, judgment, belief, choice, inclination, desire, will, liking, purpose, spirit, impetus, memory, remembrance, recollection 
+ANT: Body, limbs, organization, action, proceeding, conduct, object, indifference, coolness, aversion, forgetfulness, obviousness 
+
+Mild 
+SYN: Moderate, lenient, calm, gentle, genial, tempered, soft, meek, tender, placid 
+ANT: Violent, wild, fierce, savage, strong, severe, merciless, harsh, bitter 
+
+Merit 
+SYN: Goodness, worth, worthiness, desert, excellence 
+ANT: Badness, demerit, unworthiness, worthlessness, weakness, imperfection, error, defect, fault, failing 
+
+Memorable 
+SYN: Great, striking, remarkable, conspicuous, prominent, noticeable, illustrious, extraordinary, famous, distinguished 
+ANT: Petty, trifling, ordinary, insignificant, unnoticeable, trivial, mediocre, slight 
+
+Meed
+SYN: Guerdon, premium, prize, reward 
+ANT: Penalty, punishment, brand, stigma, amercement 
+
+Massive 
+SYN: Solid, huge, colossal, weighty, mighty, vast 
+ANT: Slight, petty, stunted, frail, slender, airy 
+
+Marvel 
+SYN: Wonder, prodigy, admiration, portent, miracle, astonishment, amazement, phenomenon 
+ANT: Incuriosity, unconcern, joke, trifle, farce, bagatelle, moonshine, cipher, drug, imposture, juggle 
+
+Marital 
+SYN: Matrimonial, conjugal, connubial, nuptial, hymeneal 
+ANT: Single, celibate, unwedded, non-connubial 
+
+Margin 
+SYN: Edge, lip, boundary, latitude, room, loophole, brink, extremity 
+ANT: Figure, space, centre, limitation, restriction, stringency 
+
+Manage 
+SYN: Handle, manipulate, control, conduct, administer, mould, regulate, contrive, train, husband, direct, wield 
+ANT: Mismanage, misconduct, upset, derange, misuse 
+
+Luxury 
+SYN: Effeminacy, epicurism, voluptuousness, wantonness, selfindulgence, softness, animalism, delicacy, dainty, profuseness 
+ANT: Hardness, asceticism, stoicism, self-denial, hardship 
+
+Loyal 
+SYN: Submissive, obedient, faithful, allegiant, true, constant 
+ANT: Insubmissive, insurgent, mal, content, rebellious, disobedient, unfaithful, unallegiant, untrue, inconstant, disaffected 
+
+Loss 
+SYN: Mislaying, dropping, forfeiture, missing, privation, waste, detriment, damage 
+ANT: Preservation, recovery, earning, satisfaction, restoration, economy, augmentation, advantage, gain 
+
+Loan 
+SYN: Advance, mortgage, hypothecation 
+ANT: Recall, resumption, foreclosure 
+
+Listen 
+SYN: Hear, attend, hearken, incline, give_ear, heed 
+ANT: Disregard, ignore, refuse, repudiate 
+
+Linear 
+SYN: Direct, straight, rectilinear 
+ANT: Incurved, divergent, collateral, lateral, curvilinear, zigzag 
+
+Life 
+SYN: Vitality, duration, existence, condition, conduct, animation, vivacity, personality, estate, society, morals, spirit, activity, history, career 
+ANT: Mortality, decease, death, non-existence, dullness, torpor, portraiture, lethargy, lifelessness 
+
+Liberal 
+SYN: Free, gentle, refined, polished, generous, bountiful, catholic, enlarged, copious, ample, profuse, large, handsome, munificent, abundant, noble-minded, bounteous, tolerant, plentiful 
+ANT: Churlish, low, mean, boorish, ungenerous, illiberal, grasping, niggardly, avaricious, greedy, gainful, narrow-minded, bigoted, prejudiced, contracted, scanty, inadequate 
+
+Liberal 
+SYN: Free, gentle, refined, polished, generous, bountiful, catholic, enlarged, copious, ample, profuse, large, handsome, munificent, abundant, noble-minded, bounteous, tolerant, plentiful 
+ANT: Churlish, low, mean, boorish, ungenerous, illiberal, grasping, niggardly, avaricious, greedy, gainful, narrow-minded, bigoted, prejudiced, contracted, scanty, inadequate 
+
+Law 
+SYN: Rule, edict, regulation, decree, command, order, statute, enactment, mode, method, sequence, principle, code, legislation, adjudication, jurisdiction, jurisprudence 
+ANT: Misrule, disorder, anarchy, rebellion, insubordination, hazard, chance, irregularity, caprice, casualty, accident 
